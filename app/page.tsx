@@ -6,9 +6,13 @@ export default function HomePage() {
           🚧 Work in Progress
         </p>
 
-        <h1 className="text-4xl md:text-5xl font-bold mb-6">
+        <h1 className="text-4xl md:text-5xl font-bold mb-3">
           Service Booking Platform
         </h1>
+
+        <p className="text-slate-400 mb-6">
+          Built by <span className="font-semibold text-white">Janhavi Doshi</span>
+        </p>
 
         <p className="text-slate-300 text-lg leading-relaxed mb-8">
           I’m currently building a full-stack service booking application where
